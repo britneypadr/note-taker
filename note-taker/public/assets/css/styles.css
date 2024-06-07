@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    display: flex;
+}
+
+.sidebar {
+    width: 25%;
+    background-color: #f4f4f4;
+    padding: 20px;
+}
+
+.main {
+    width: 75%;
+    padding: 20px;
+}
+
+#notes-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+#notes-list li {
+    cursor: pointer;
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+}
+
+#notes-list li:hover {
+    background-color: #ddd;
+}
+
+input, textarea {
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+button {
+    padding: 10px;
+    margin-right: 5px;
+    cursor: pointer;
+}
