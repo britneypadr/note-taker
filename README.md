@@ -42,5 +42,27 @@ This is a simple note-taking application that allows users to create, and view n
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone 
+   git clone https://github.com/britneypadr/note-taker.git
+
+2. Navigate to the project directory:
+   ```bash
+   cd note-taker
+
+3. Install dependencies:
+   ```bash
+   npm install
+
+4. Start the application:
+   ```bash
+   npm start
+
+## Installation
+To install the application locally, follow the [Usage](#usage) instructions.
+
+## Contributing
+Contributions are welcome! Please fork the repository and submit a pull request.
+
+## License
+This project is licensed under the MIT License.
+
 
