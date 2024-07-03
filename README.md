@@ -41,5 +41,6 @@ This is a simple note-taking application that allows users to create, and view n
 
 ## Usage
 1. Clone the repository:
-   
+   ```bash
+   git clone 
 
